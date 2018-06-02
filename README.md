@@ -1,4 +1,4 @@
-** This is a test**
+This is a test of **EMACS**
 # pythoncamp
 # pythoncamp2
 # pythoncamp2
