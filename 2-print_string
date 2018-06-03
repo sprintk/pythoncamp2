@@ -1,2 +1,2 @@
 my_string = "Python "
-print(my_string + "is awesome")
+print("{}is cool".format(my_string))
